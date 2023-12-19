@@ -1,8 +1,8 @@
-**Log on to realsourcecode.com for more projects!**
 
-**Database Name: shopci**
 
-**Developed by realsourcecode**
+**Database Name: shopInus**
+
+**Developed by Inus daimary**
 
 **Recommended PHP Version 5.6.3, 7.4.12**
 
